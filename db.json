@@ -14,4 +14,111 @@
       "timestamp": ,
     }
   ],
+  "groupposts": [
+    {
+      "id": 2,
+      "authorId": 1,
+      "content": "hello world",
+      "postType": "standard",
+      "hasMedia": "false",
+      "username": "Michael Hodge",
+      "userProfilePic": "https://www.pexels.com/photo/back-view-of-a-person-in-a-yellow-jacket-walking-on-a-grass-field-9420589/",
+      "groupName": "VT Hunters",
+      "groupId: 10, 
+      "likes": [],
+      "taggedUsers": [],
+      "mediaUrls": [],
+      "timestamp": ,
+    }
+  ],
+  "trailcamposts": [
+    {
+      "id": 3,
+      "authorId": 1,
+      "content": "hello world",
+      "postType": "standard",
+      "hasMedia": "false",
+      "username": "Michael Hodge",
+      "userProfilePic": "https://www.pexels.com/photo/back-view-of-a-person-in-a-yellow-jacket-walking-on-a-grass-field-9420589/",
+      "likes": [],
+      "taggedUsers": [],
+      "mediaUrls": [],
+      "timestamp": ,
+    }
+  ],
+  "tvposts": [
+    {
+      "id": 4,
+      "authorId": 1,
+      "content": "hello world",
+      "postType": "standard",
+      "hasMedia": "false",
+      "username": "Michael Hodge",
+      "userProfilePic": "https://www.pexels.com/photo/back-view-of-a-person-in-a-yellow-jacket-walking-on-a-grass-field-9420589/",
+      "likes": [],
+      "taggedUsers": [],
+      "mediaUrls": [],
+      "timestamp": ,
+    }
+  ],
+  "fishslamposts": [
+    {
+      "id": 5,
+      "authorId": 1,
+      "content": "hello world",
+      "postType": "standard",
+      "hasMedia": "false",
+      "username": "Michael Hodge",
+      "userProfilePic": "https://www.pexels.com/photo/back-view-of-a-person-in-a-yellow-jacket-walking-on-a-grass-field-9420589/",
+      "likes": [],
+      "taggedUsers": [],
+      "mediaUrls": [],
+      "timestamp": ,
+    }
+  ],
+  "huntslamposts": [
+    {
+      "id": 6,
+      "authorId": 1,
+      "content": "hello world",
+      "postType": "standard",
+      "hasMedia": "false",
+      "username": "Michael Hodge",
+      "userProfilePic": "https://www.pexels.com/photo/back-view-of-a-person-in-a-yellow-jacket-walking-on-a-grass-field-9420589/",
+      "likes": [],
+      "taggedUsers": [],
+      "mediaUrls": [],
+      "timestamp": ,
+    }
+  ],
+  "customslamposts": [
+    {
+      "id": 7,
+      "authorId": 1,
+      "content": "hello world",
+      "postType": "standard",
+      "hasMedia": "false",
+      "username": "Michael Hodge",
+      "userProfilePic": "https://www.pexels.com/photo/back-view-of-a-person-in-a-yellow-jacket-walking-on-a-grass-field-9420589/",
+      "likes": [],
+      "taggedUsers": [],
+      "mediaUrls": [],
+      "timestamp": ,
+    }
+  ],
+  "lifetimeslamposts": [
+    {
+      "id": 8,
+      "authorId": 1,
+      "content": "hello world",
+      "postType": "standard",
+      "hasMedia": "false",
+      "username": "Michael Hodge",
+      "userProfilePic": "https://www.pexels.com/photo/back-view-of-a-person-in-a-yellow-jacket-walking-on-a-grass-field-9420589/",
+      "likes": [],
+      "taggedUsers": [],
+      "mediaUrls": [],
+      "timestamp": ,
+    }
+  ],
 }
