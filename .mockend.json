@@ -1,6 +1,5 @@
 {
-  "StandardPost": [
-    {
+  "StandardPost": {
       "id": {
         "id": {}
       },
@@ -49,9 +48,9 @@
 
         }
       }
-    }
-  ],
-  "GroupPost": [
+    },
+
+  "GroupPost": 
     {
       "id": {
         "id": {}
@@ -108,9 +107,9 @@
 
         }
       }
-    }
-  ],
-  "TrailcamPost": [
+    },
+
+  "TrailcamPost": 
     {
       "id": {
         "id": {}
@@ -162,9 +161,8 @@
 
         }
       }
-    }
-  ],
-  "TvPost": [
+    },
+  "TvPost": 
     {
       "id": {
         "id": {}
@@ -216,9 +214,9 @@
 
         }
       }
-    }
-  ],
-  "FishSlamPost": [
+    },
+  
+  "FishSlamPost": 
     {
       "id": {
         "id": {}
@@ -281,10 +279,8 @@
 
         }
       }
-    }
-
-  ],
-  "HuntSlamPost": [
+    },
+  "HuntSlamPost": 
     {
       "id": {
         "id": {}
@@ -344,9 +340,9 @@
 
         }
       }
-    }
-  ],
-  "CustomSlamPost": [
+    },
+
+  "CustomSlamPost": 
     {
       "id": {
         "id": {}
@@ -404,9 +400,9 @@
 
         }
       }
-    }
-  ],
-  "LifetimeSlamPost": [
+    },
+
+  "LifetimeSlamPost": 
     {
       "id": {
         "id": {}
@@ -464,5 +460,4 @@
         }
       }
     }
-  ]
 }
