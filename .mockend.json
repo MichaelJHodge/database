@@ -1,5 +1,5 @@
 {
-  "StandardPost": {
+  "Post": {
       "id": {
         "id": {}
       },
@@ -26,7 +26,7 @@
         ]
       },
       "userProfilePic": {
-        "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
+        "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/1080"
       },
       "likes": {
         "id": [
@@ -49,5 +49,6 @@
         }
       }
     }
+
   
 }
