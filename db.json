@@ -10,8 +10,7 @@
       "userProfilePic": "https://www.pexels.com/photo/back-view-of-a-person-in-a-yellow-jacket-walking-on-a-grass-field-9420589/",
       "likes": [],
       "taggedUsers": [],
-      "mediaUrls": [
-    ],
+      "mediaUrls": [],
       "timestamp": "2022-1-10T13:49:51.141Z"
     }
   ],
@@ -142,5 +141,5 @@
       "mediaUrls": [],
       "timestamp": "2022-8-10T13:49:51.141Z"
     }
-  ]
+  ],
 }
