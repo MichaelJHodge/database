@@ -1,19 +1,6 @@
 {
   "standardposts": [
     {
-      "id": 1,
-      "authorId": 1,
-      "content": "hello world",
-      "postType": "standard",
-      "hasMedia": "false",
-      "username": "Michael Hodge",
-      "userProfilePic": "https://www.pexels.com/photo/back-view-of-a-person-in-a-yellow-jacket-walking-on-a-grass-field-9420589/",
-      "likes": [],
-      "taggedUsers": [],
-      "mediaUrls": [],
-      "timestamp": "2022-1-10T13:49:51.141Z"
-    }
-    {
       "id": 20,
       "authorId": 1,
       "content": "hello world",
