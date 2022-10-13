@@ -1,48 +1,14 @@
 {
-  "StandardPost": {
-      "id": {
-        "id": {}
-      },
-      "authorId": {
-        "id": {}
-      },
-      "content": {
-        "loremSentences": { "minLength": 10, "maxLength": 100 }
-      },
-      "postType": {
-        "string":{ }
-      },
-      "hasMedia": {
-        "boolean": {}
-      },
-      "username": {
-        "string": [
-         
-        ]
-      },
-      "userProfilePic": {
-        "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/1080"
-      },
-      "likes": {
-        "id": [
-
-        ]
-      },
-      "taggedUsers": {
-        "id": [
-
-        ]
-      },
-      "mediaUrls": {
-        "string": [
-
-        ]
-      },
-      "timestamp": {
-        "dateTime": {
-
-        }
-      }
+  "Post": {
+    "title": { "string": {} },
+    "comments": {
+      "hasMany": "Comment"
     }
-
+  },
+  "Comment": {
+    "body": { "string": {} },
+    "post": {
+      "belongsTo": "Post"
+    }
+  }
 }
