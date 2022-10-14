@@ -10,13 +10,17 @@
         "loremSentences": { "minLength": 10, "maxLength": 100 }
       },
       "postType": {
-        "string": {}
+        "string": 
+            [
+              "standard"
+            ]
+  
       },
       "hasMedia": {
         "boolean": {}
       },
       "username": {
-        "string": {}
+        "string":{}
       },
       "userProfilePic": {
         "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/1080"
