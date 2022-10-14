@@ -1,29 +1,23 @@
 {
   "Post": {
       "id": {
-        "int": {}
+        "string": {}
       },
       "authorId": {
-        "int": {}
+        "string": {}
       },
       "content": {
         "loremSentences": { "minLength": 10, "maxLength": 100 }
       },
       "postType": {
         "string": "standard"
+  
       },
       "hasMedia": {
         "boolean": {}
       },
       "username": {
-        "string": [
-          "Thor",
-          "Rocket",
-          "Hela",
-          "Odin",
-          "Groot",
-          "Loki"
-        ]
+        "string": {}
       },
       "userProfilePic": {
         "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/1080"
@@ -49,6 +43,7 @@
       }
     }
 
+    
   
 }
 
