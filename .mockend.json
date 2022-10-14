@@ -10,8 +10,7 @@
         "loremSentences": { "minLength": 10, "maxLength": 100 }
       },
       "postType": {
-        "string": "standard"
-  
+        "string": {}
       },
       "hasMedia": {
         "boolean": {}
