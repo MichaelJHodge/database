@@ -17,7 +17,9 @@
   
       },
       "hasMedia": {
-        "boolean": {}
+        "boolean": [
+          false
+        ]
       },
       "username": {
         "string":{}
